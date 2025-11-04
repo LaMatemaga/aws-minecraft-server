@@ -788,8 +788,8 @@ op TuNombreDeUsuario
 * Un servidor de Minecraft completamente funcional
 * Acceso SSH para administración remota
 * Una Elastic IP estática para fácil conexión
-* Conocimientos de optimización y mantenimiento
-* Estrategias de backup y recuperación
+* WIP: Conocimientos de optimización y mantenimiento
+* WIP: Estrategias de backup y recuperación
 
 ### Próximos Pasos Recomendados
 
