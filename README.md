@@ -1274,6 +1274,10 @@ Si encuentras errores en esta guía o quieres contribuir mejoras, ¡tus aportes 
 
 ### Autor Original
 
+Cynthia Elizabeth Castillo Silva. AWS Community Builder en la categoría de Machine Learning. Entusiasta del aprendizaje y la colaboración.
+
+### Presentado en
+**Twitch** - En el canal de La Matemaga :)
 **FCFM UANL** - Facultad de Ciencias Físico Matemáticas, Universidad Autónoma de Nuevo León
 
 ### Licencia
